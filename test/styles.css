@@ -10,7 +10,14 @@ h1 {
     
 }
 
-h2{
+h4{
+  font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3.5px;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.subtitle{
   font-family: 'Bebas Neue', cursive;
   letter-spacing: 3.5px;
   font-size: 70px;
@@ -28,6 +35,14 @@ ul {
     position: sticky;
     top: 0;
   }
+
+.retrato{
+  border-radius: 8px;
+  width: 20%;
+  height: 20%;
+  margin-left: 90px;
+  margin-top: 0;
+}
 
 .active {
   background-color: #04AA6D;
